@@ -17,6 +17,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### References
+- http://sdiehl.github.io/gevent-tutorial/
+
 Contributors / Licensing
 ========================
 
